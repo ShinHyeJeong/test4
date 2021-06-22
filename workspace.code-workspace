@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "img",
+			"path": "../Desktop/아카이브/img"
+		},
+		{
+			"name": "H.J WORLD",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "H.J WORLD"
+	}
+}
